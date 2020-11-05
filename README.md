@@ -1,6 +1,6 @@
 # Self-Bot
 
-[[My Website]](http://sagaanpillai.com/)
+[[My Website]](https://mitsuzi.xyz/)
 
 # Features
 - World Time
